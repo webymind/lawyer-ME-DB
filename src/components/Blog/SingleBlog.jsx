@@ -12,7 +12,7 @@ const SingleBlog = ({ element }) => {
       <div className="st-post-info">
         <div className="st-post-date">
           {/* By: */}
-          <a href="blog-details.html" className="st-post-author">
+          <a href="/" className="st-post-author">
             {designation}
           </a>
           {/* <span className="st-post-date-divider">|</span>

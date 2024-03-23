@@ -34,6 +34,7 @@ const BlogDetails = () => {
   }, []);
 
   return (
+
     <section className="st-content">
       <div
         className="st-page-heading st-bg"
